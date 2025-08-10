@@ -1,4 +1,3 @@
 Using Excel C-Api in VBA
-'456465465
 
-Делаем какие-то изменения
+Использоване C-API Excel в VBA
